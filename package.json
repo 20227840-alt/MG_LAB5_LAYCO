@@ -1,5 +1,6 @@
 {
   "name": "mg-lab5-layco",
+  "homepage": "https://github.com/20227840-alt/MG_LAB5_LAYCO.git",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,6 +9,7 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+    
   },
   "dependencies": {
     "react": "^19.2.0",
